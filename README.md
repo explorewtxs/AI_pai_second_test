@@ -4,6 +4,8 @@
 - [ ] 论文阅读
 - [ ] 视频讲解
 #### 衍生问题
+- [ ] recurrent neural networks
+- [ ] convolutional neural networks
 - [ ] 
 ## Step2
 ## Step3
